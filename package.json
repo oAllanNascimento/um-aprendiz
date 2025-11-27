@@ -1,0 +1,24 @@
+{
+  "name": "um-aprendiz",
+  "version": "1.0.0",
+  "description": "Blog sobre aprender idiomas e programação.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oAllanNascimento/um-aprendiz.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oAllanNascimento/um-aprendiz/issues"
+  },
+  "homepage": "https://github.com/oAllanNascimento/um-aprendiz#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
